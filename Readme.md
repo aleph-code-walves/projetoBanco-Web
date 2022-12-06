@@ -8,6 +8,20 @@ Implementação de um sistema de read e insert utilizando as tecnologias React j
 <img src="https://user-images.githubusercontent.com/68011326/205996567-b51eb9a5-9358-4971-9f5e-d8b1777ef103.png" width="700px" />
 </div>
 
+Interface da página.
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/68011326/205996569-486722fa-7a6f-485b-9d40-0e7204aff869.png" width="700px" />
+</div>
+Parte para cadastramento.
+
+
+## Organização do Banco
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/68011326/205996564-20133d30-b431-4b1a-ac53-0b9e6d1e7340.png" width="700px" />
+</div>
 
 
 ## Backend
