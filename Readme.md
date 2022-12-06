@@ -4,6 +4,12 @@ Implementação de um sistema de read e insert utilizando as tecnologias React j
 
 ## Interface
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/68011326/205996567-b51eb9a5-9358-4971-9f5e-d8b1777ef103.png" width="700px" />
+</div>
+
+
+
 ## Backend
 
 Para trabalhar com o mysql no backend, foi utilizado a biblioteca [Sequelize](https://sequelize.org/api/v6/identifiers), no qual se trata de uma tecnologia Node.js (para integração SQL), para Oracle, Postgres, MySQL, MariaDB, SQLite e SQL Server e muito mais. Com suporte a transações sólidas, relações, carregamento rápido e lento, replicação de leitura e muito mais.
